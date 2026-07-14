@@ -1,0 +1,14 @@
+node_modules/
+**/dist/
+**/bin/
+**/obj/
+backend/MicroFrontendDemo.Api/wwwroot/*
+!backend/MicroFrontendDemo.Api/wwwroot/.gitkeep
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+TestResults/
+coverage/
+
